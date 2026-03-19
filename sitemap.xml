@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+  <!-- Home Page -->
+  <url>
+    <loc>https://smarttoolsonlinehub.netlify.appp/</loc>
+  </url>
+
+  <!-- About Page -->
+  <url>
+    <loc>https://smarttoolsonlinehub.netlify.app/about</loc>
+  </url>
+   <!-- Blog Page -->
+  <url>
+    <loc>https://smarttoolsonlinehub.netlify.app/blog</loc>
+  </url>
+
+  <!-- Terms & Conditions Page -->
+  <url>
+    <loc>https://smarttoolsonlinehub.netlify.app/terms-condition</loc>
+  </url>
+
+  <!-- Privacy Policy Page -->
+  <url>
+    <loc>https://smarttoolsonlinehub.netlify.app/privacy</loc>
+  </url>
+
+  <!-- Contact Page -->
+  <url>
+    <loc>https://smarttoolsonlinehub.netlify.app/contactl</loc>
+  </url>
+  <!-- Disclaimer Page -->
+  <url>
+    <loc>https://smarttoolsonlinehub.netlify.app/disclaimer</loc>
+  </url>
+
+</urlset>
