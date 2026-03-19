@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Age Calculator</title>
+<link rel="stylesheet" href="../css/style.css">
+</head>
+
+<body>
+
+<header>
+<h1>Age Calculator</h1>
+<a href="../index.html">Home</a>
+</header>
+
+<main>
+<input type="date" id="dob"><br><br>
+<button onclick="calcAge()">Calculate</button>
+<p id="age"></p>
+</main>
+
+<script>
+function calcAge(){
+ let dob = new Date(document.getElementById("dob").value);
+ let today = new Date();
+ let age = today.getFullYear() - dob.getFullYear();
+ document.getElementById("age").innerText = "Age: " + age;
+}
+</script>
+
+</body>
+</html>
